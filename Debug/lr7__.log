@@ -1,0 +1,4 @@
+﻿  fun.cpp
+C:\Users\mrcan\source\repos\lr7__\lr7__\String.h(10,1): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+C:\Users\mrcan\source\repos\lr7__\lr7__\fun.cpp : message : см. предыдущее определение "_CRT_SECURE_NO_WARNINGS"
+  lr7__.vcxproj -> C:\Users\mrcan\source\repos\lr7__\Debug\lr7__.exe
